@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Sarthak074
 - 👀 I’m interested in coding 
-- 🌱 I’m currently learning web designing 
+- 🌱 I’m currently learning web development
 - 💞️ I’m looking to collaborate on programming projects 
 - 📫 How to reach me bhandaresarthak074@gmail.com
 
